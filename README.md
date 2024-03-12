@@ -1,2 +1,2 @@
 # Netflix-Clone-Websie
-This is a responsive clone of the popular video streaming site Netflix. Built using HTML , CSS
+Designed a Netflix Clone Website. Technology Used: HTML5, CSS3, JavaScript.
